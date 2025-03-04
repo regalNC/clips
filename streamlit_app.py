@@ -1,4 +1,5 @@
 import streamlit as st
+import clips
 
 st.title("🎈 My new app2")
 st.write(
